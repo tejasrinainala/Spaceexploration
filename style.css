@@ -1,0 +1,36 @@
+body 
+{
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    color:black;
+    margin:0;
+}
+#hero 
+{
+    background-image:url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBnbDBmanRkN2Fqbm81Z3E0anMwY2UzOTFjdnp4NHlwcDFidHlxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D35fOVm9gSQ91icJeR/giphy.gif");
+    background-size:cover;
+    padding:10px 0 40px 0;
+}
+#main 
+{
+    width:100px;
+}
+#title
+{
+    text-shadow:0px 0px 5px #43acd5;
+}
+.btn 
+{
+    padding:6px 12px;
+    background:white;
+    border:none;
+    font-family:inherit;
+    color:black;
+    font-weight:400;
+}
+.underline 
+{
+    border-bottom:4px solid white;
+}
